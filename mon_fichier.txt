@@ -1,3 +1,4 @@
 ceci est la ligne que je rajoute à l'étape 6.2
 
-ceci est la ligne conflictuelle que je rajoute à létape 7
+ceci est la ligne que je rajoute à l'étape 7
+
